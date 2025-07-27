@@ -1,0 +1,10 @@
+PROJECT
+This project is a user-friendly steganography tool built using Python, designed to hide secret messages inside image files without changing their appearance.
+ It offers a clean graphical interface using Tkinter, making it easy for anyone—especially beginners in programming or cybersecurity—to use. 
+With just a few clicks, users can upload an image, type the message they want to hide, and generate a new image that secretly contains that text. 
+The tool also allows easy extraction of hidden text and even provides a pixel comparison feature to visualize subtle changes between original and modified images.
+The project uses libraries like Stepic and Pillow for encoding/decoding and image processing, and supports common formats like PNG and JPG.
+It includes helpful alerts and error messages to guide users smoothly through each step.
+ More than just a technical build, this project reflects an engaging learning experience—it blends programming, digital privacy, and creative problem-solving.
+It’s a great starting point for anyone curious about how data can be hidden in plain sight and opens the door to exploring deeper fields like cryptography and ethical hacking.
+
